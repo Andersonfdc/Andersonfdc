@@ -36,10 +36,5 @@
   ##
   
 </div>
-  
-<div>
-  
-  ![Snake animation](https://github.com/Andersonfdc/Andersonfdc)
-  
-</div>
+ 
   
