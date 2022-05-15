@@ -3,7 +3,7 @@
 
 - 👾 Hoje trabalho como Analista de Melhoria Continua
 - 👨‍💻 Estou aprendendo Banco de dados, Programação Orientada a Objetos e Segurança da Informação (Red team)
-- 👽 Pronome: Ele/ Dele
+- 👽☠👻💀🎃
 
 <div align="center">
   <a href="https://github.com/Andersonfdc">
