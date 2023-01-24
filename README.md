@@ -2,8 +2,8 @@
 ## Anderson Costa
 
 - 👾 Hoje trabalho como Analista de Melhoria Continua
-- 👨‍💻 Estou aprendendo Banco de dados, Programação Orientada a Objetos e Segurança da Informação (Red team)
-- 👽☠👻💀🎃
+- 👨‍💻 Estou aprendendo Banco de dados, Programação Orientada a Objetos, Testes Automatizados e Segurança da Informação (Red team)
+
 
 <div align="center">
   <a href="https://github.com/Andersonfdc">
@@ -19,7 +19,7 @@
   <img align="center" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Sqlser" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">  
   <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
-  <iconify-icon icon="logos:cypress-icon"></iconify-icon>
+ <img align="center" alt="linux" height="30" width="40" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852"> 
 </div>
   
 <div>
