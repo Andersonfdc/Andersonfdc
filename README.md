@@ -2,7 +2,7 @@
 ## Anderson Costa
 
 - 👾 Hoje trabalho como Analista de Melhoria Continua
-- 👨‍💻 Estou aprendendo Banco de dados, Programação Orientada a Objetos, Testes Automatizados e Segurança da Informação (Red team)
+- 👨‍💻 Estou aprendendo Banco de dados, Governança de Dados, conceitos de Segurança da Informação (Red team), 
 
 
 <div align="center">
