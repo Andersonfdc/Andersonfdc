@@ -1,7 +1,7 @@
 
 ## Anderson Costa
 
-- 👾 Hoje trabalho como Analista de Melhoria Continua
+- 👾 Hoje trabalho como Analista CSO
 - 👨‍💻 Estou aprendendo Banco de dados, Governança de Dados, conceitos de Segurança da Informação (Red team), 
 
 
