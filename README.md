@@ -1,11 +1,7 @@
 
 ## Anderson Costa
 
-- 👾 Hoje trabalho como Analista CSO
-- 👨‍💻 Estou aprendendo Banco de dados, Governança de Dados, conceitos de Segurança da Informação (Red team),
-- DCPT em progresso.
-- Blog: <a target="_blank" href="https://afdcsecurity.blogspot.com">EXPLORANDO A SEGURANÇA DA INFORMAÇÃO</a>
-
+- 👾 Hoje trabalho como Analista de Teste/QA
 
 <div align="center">
   <a href="https://github.com/Andersonfdc">
